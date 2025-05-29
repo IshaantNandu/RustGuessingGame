@@ -1,4 +1,5 @@
 # RustGuessingGame
+![My Skills](https://skillicons.dev/icons?i=rust&theme=dark)
 A cool guessing game TUI using rust, with colours!
 
 ### Installation
